@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run e:\Kaggle-Projects-and-Competitions\MovieRecommendation\app.py
