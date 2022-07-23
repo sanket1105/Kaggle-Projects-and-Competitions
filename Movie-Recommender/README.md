@@ -6,3 +6,5 @@ Run the code and you can create those files
 
 
 ALl other files are the files required to run the app.py file on Heroku app
+
+APP LINK : https://movie-recommend-shankii.herokuapp.com/
